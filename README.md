@@ -2,10 +2,6 @@
 🚀 Dev em construção
 🎯 DS | VT
 
-<a href="https://www.instagram.com/eovtxxsy?stkn=MWg3Y2RrejVxZ3BpNA==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 👋 Fala, eu sou o VT!
 
 💻 Estudante de Desenvolvimento de Sistemas
@@ -22,3 +18,8 @@
 - 💻 Criando projetos para aprender na prática
 - 🔥 Melhorando minhas habilidades de programação
 - 🚀 Sempre tentando fazer algo novo
+
+- 
+<a href="https://www.instagram.com/eovtxxsy?stkn=MWg3Y2RrejVxZ3BpNA==">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
