@@ -19,7 +19,6 @@
 - 🔥 Melhorando minhas habilidades de programação
 - 🚀 Sempre tentando fazer algo novo
 
-- 
 <a href="https://www.instagram.com/eovtxxsy?stkn=MWg3Y2RrejVxZ3BpNA==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
