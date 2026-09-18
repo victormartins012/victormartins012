@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**victormartins012/victormartins012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Vinicius | Desenvolvedor Full Stack 🔥
+💻 Criando ideias através da programação
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
+Olá, eu sou Vinicius 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Desenvolvimento de Sistemas
+🚀 Apaixonado por programação e tecnologia
+📚 Sempre aprendendo novas linguagens
+💡 Foco em desenvolvimento Web e Software
+🎯 Objetivo: me tornar um grande desenvolvedor Full Stack
+
+🚀 Minhas tecnologias
+
+📊 Minhas estatísticas
+ 
+🌎 Minhas redes
+  
+🏆 Meus objetivos
+✔️ Aprender cada vez mais
+✔️ Criar projetos incríveis
+✔️ Dominar Front-End e Back-End
+✔️ Trabalhar com tecnologia
+
+
+⭐ Obrigado por visitar meu perfil ⭐
